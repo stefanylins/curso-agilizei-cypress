@@ -1,0 +1,19 @@
+Inicializar projeto node:
+	npm init --yes
+
+Instalar o cypress
+	npm install -D cypress (instala a ultima versão disponivel)
+	npm install -D cypress@12.5.0 (instala uma versão especifica)
+
+Abrir o cypress pela interface
+	npx cypress open
+
+Abrir o cypress pelo CLI
+	npx cypress run
+	npx cypress run --config viewportHeight=1000,viewportWidth=600 (executa com uma resolução diferente)
+
+Integração com Allure Report
+	Instalar o Scoop pelo Powershell (internet passo a passo)
+
+Configurações para cypress-allure-plugin
+	https://www.npmjs.com/package/@shelex/cypress-allure-plugin

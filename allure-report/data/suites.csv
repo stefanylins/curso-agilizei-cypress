@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4580","Cadastrar uma entrada","","Fri Oct 04 20:11:41 BRT 2024","passed","Fri Oct 04 20:11:45 BRT 2024","","Transações","",""
+"","3998","Excluir uma transação","","Fri Oct 04 20:11:47 BRT 2024","passed","Fri Oct 04 20:11:51 BRT 2024","","Transações","",""
+"","1622","Cadastrar uma saída","","Fri Oct 04 20:11:45 BRT 2024","passed","Fri Oct 04 20:11:47 BRT 2024","","Transações","",""
