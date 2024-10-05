@@ -1,5 +1,3 @@
-![poster]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bvp.com%2Fcompanies%2Fcypress-io&psig=AOvVaw3_aPrQxeFWRz7sraVa0QKh&ust=1728178294368000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjsmoOM9ogDFQAAAAAdAAAAABAE](https://brandfetch.com/cypress.io?view=library&library=default&collection=logos&asset=idJT_qtr1C))
-
 
 # Projeto de Automação Web com Cypress
 
